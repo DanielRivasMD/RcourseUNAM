@@ -40,6 +40,7 @@ selectedIris <- iris[,features]         # or just iris[features]
 ####################################################################################################
 
 # perform k-means clustering
+specsNum <- 10000
 fitKmeans <- kmeans(selectedIris, specsNum, iter.max = 100)
 
 # plot the result of k-means clustering
