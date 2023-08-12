@@ -31,8 +31,8 @@ my_tiny_little_variable <- 0.1
 y <- 10
 Y <- 20
 
-print(paste0('the value of y is '), y)
-print(paste0('and the value of Y is '), Y)
+print(paste0('the value of y is ', y))
+print(paste0('and the value of Y is ', Y))
 
 # try to avoid function names as object names
 # avoid dots “.” in object names
