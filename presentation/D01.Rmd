@@ -80,43 +80,43 @@ Most programming languages are text-based formal languages, but they may also be
 
 ---
 
-```{r fig01/slide1, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig01/slide1, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig01/slide1.jpeg")
 ```
 
 ---
 
-```{r fig01/slide2, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig01/slide2, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig01/slide2.jpeg")
 ```
 
 ---
 
-```{r fig01/slide3, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig01/slide3, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig01/slide3.jpeg")
 ```
 
 ---
 
-```{r fig01/slide4, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig01/slide4, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig01/slide4.jpeg")
 ```
 
 ---
 
-```{r fig01/slide5, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig01/slide5, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig01/slide5.jpeg")
 ```
 
 ---
 
-```{r fig01/slide6, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig01/slide6, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig01/slide6.jpeg")
 ```
 
 ---
 
-```{r fig01/slide7, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig01/slide7, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig01/slide7.jpeg")
 ```
 
@@ -174,25 +174,25 @@ knitr::include_graphics("figs/fig01/slide7.jpeg")
 
 ---
 
-```{r fig02/slide1, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig02/slide1, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig02/slide1.jpeg")
 ```
 
 ---
 
-```{r fig02/slide2, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig02/slide2, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig02/slide2.jpeg")
 ```
 
 ---
 
-```{r fig02/slide3, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig02/slide3, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig02/slide3.jpeg")
 ```
 
 ---
 
-```{r fig02/slide4, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', output.width = '800px', fig.pos = 'H'}
+```{r fig02/slide4, echo = F, message = F, fig.align = 'center', fig.cap = 'RStudio', out.width = '100%', fig.pos = 'H'}
 knitr::include_graphics("figs/fig02/slide4.jpeg")
 ```
 
