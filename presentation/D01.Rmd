@@ -198,8 +198,12 @@ knitr::include_graphics("figs/fig02/slide4.jpeg")
 
 # Workshop II
 
-## Questions & Comments
+# Questions & Comments
+
+<div class = 'centered'>
 
 Daniel Rivas
 
 danielrivasmd@gmail.com
+
+</div>
