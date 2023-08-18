@@ -3,19 +3,19 @@
 ####################################################################################################
 
 vLogical <- TRUE
-print(class(v))
+print(class(vLogical))
 
 vNumeric <- 23.5
-print(class(v))
+print(class(vNumeric))
 
 vInteger <- 2L
-print(class(v))
+print(class(vInteger))
 
 vComplex <- 2+5i
-print(class(v))
+print(class(vComplex))
 
 vCharacter <- 'true'
-print(class(v))
+print(class(vCharacter))
 
 ####################################################################################################
 
