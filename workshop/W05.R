@@ -129,6 +129,24 @@ am_data = glm(formula = am ~ cyl + hp + wt, data = input, family = binomial)
 # show the model
 print(summary(am_data))
 
+# load library
+library(ISLR)
+
+# fit logistic regression model
+model <- glm(default ~ student + balance + income, family = binomial, data = Default)
+
+# disable scientific notation
+options(scipen = 999)
+
+# view model summary
+summary(model)
+
+# calculate odds ratio
+exp(coef(model))
+
+# calculate odds ratio & confidence intervals
+exp(cbind(OddsRatio = coef(model), confint(model)))
+
 ####################################################################################################
 
 # ancova analysis
