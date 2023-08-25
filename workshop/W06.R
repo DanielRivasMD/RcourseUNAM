@@ -72,7 +72,7 @@ read_delim_chunked() # NOT RUN
 ####################################################################################################
 
 # install dependency
-install.packages('readr')
+install.packages('readxl')
 
 # load package
 library(readxl)
@@ -90,17 +90,17 @@ readxl_example()
 readxl_example('clippy.xls')
 
 # declare example
-xls_example <- readxl_example('datasets.xls')
+xlsx_example <- readxl_example('datasets.xls')
 
 # load example
-read_excel(xls_example)
+read_excel(xlsx_example)
 
 # list sheet names
 excel_sheets(xlsx_example)
 
 # specify sheet: name | number
 read_excel(xlsx_example, sheet = 'chickwts')
-read_excel(xls_example, sheet = 4)
+read_excel(xlsx_example, sheet = 4)
 
 # specify values to load
 read_excel(xlsx_example, n_max = 3)
@@ -124,7 +124,7 @@ print(table(iris_setosa_versi_na$Species))
 # write_delim(): delimited files
 # write_csv(): comma-separated values (CSV)
 # write_tsv(): tab-separated values (TSV)
-# write_excel_csv(): excle-compatible
+# write_excel_csv(): excel-compatible
 # write_rds(): R objects
 
 ####################################################################################################
